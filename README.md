@@ -7,4 +7,4 @@ It might not look pretty, but it works :smirk: :smirk: :smirk: :smirk:
 
 ![Posting](https://github.com/MasaluPan/SimpleBlogYesod/blob/main/img/img0.png?raw=true)
 
-![Show List]https://github.com/MasaluPan/SimpleBlogYesod/blob/main/img/img1.png?raw=true
+![Show List](https://github.com/MasaluPan/SimpleBlogYesod/blob/main/img/img1.png?raw=true)
